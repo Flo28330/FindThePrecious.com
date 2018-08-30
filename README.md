@@ -128,5 +128,4 @@
 		</ul>
 	</footer>
 </body>
-</html># FindThePrecious.com
-exercice.html
+</html>
